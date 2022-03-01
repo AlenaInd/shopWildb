@@ -70,6 +70,7 @@ const getGoods = () => {
 
     // localStorage.removeItem('goods');
     // console.log(localStorage.getItem('goods'));
-}
+};
 
-getGoods()
+getGoods();
+

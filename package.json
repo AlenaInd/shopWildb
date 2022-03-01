@@ -1,0 +1,26 @@
+{
+  "name": "wildberries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenaInd/shopWildb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenaInd/shopWildb/issues"
+  },
+  "homepage": "https://github.com/AlenaInd/shopWildb#readme",
+  "dependencies": {
+    "swiper": "^8.0.6"
+  },
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}

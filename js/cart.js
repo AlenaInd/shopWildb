@@ -12,6 +12,7 @@ const cart = function () {
     closeBtn.addEventListener('click', function () {
         cart.style.display = '';
     })
-}
+};
 
-cart()
+cart();
+

@@ -59,6 +59,6 @@ const search = function () {
         console.error(e.message);
     }
 
-}
+};
 
-search()
+search();
